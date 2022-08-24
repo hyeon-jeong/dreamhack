@@ -1,0 +1,4 @@
+break *main
+catch syscall arch_prctl
+watch *0x7ffff7fe24e8
+
