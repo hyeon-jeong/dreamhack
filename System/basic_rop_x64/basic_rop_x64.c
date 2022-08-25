@@ -18,6 +18,10 @@ void initialize() {
     alarm(30);
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 int main(int argc, char *argv[]) {
     char buf[0x40] = {};
 
@@ -28,3 +32,7 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
