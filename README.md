@@ -1,6 +1,6 @@
-<t2> [개인학습] 공부기록 & 백업용 </t2>
+<t1> [개인학습] 공부기록 & 백업용 </t1>
 
-<t2> system </t2>
+<h2> system </h2>
 
 - stage 2 / 
   * Assembly, x86, amd64 architecture
@@ -42,7 +42,7 @@
   * Bypass PIE & RELRO
   * Hooking
   * One shot gadget
-  * wargame : 
+  * wargame : oneshot, hook
   
 - Advanced Linux Exploitation / 22.09.04 ~ 
   * One shot gadget
@@ -50,15 +50,19 @@
 
 - stage 9 / 22.09.05
   * Out of Bounds
-  * wargame : 
+  * wargame : OOB
+
+- stage 10 / 22.09.06 ~ 
+  * Format String Bug
 
 
 
-<t1> Reversing </t1>
+<h2> Reversing </h2>
 
 
 
-<t1> Crypto </t1>
+
+<h2> Crypto </h2>
 
 
 
