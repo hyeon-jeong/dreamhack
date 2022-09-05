@@ -13,15 +13,18 @@
 
 - stage 5 / 22.07.16 ~ 22.07.21
   * Stack Buffer Overflow
+  * wargame : 
  
 - Linux Exploitation & Mitigation Part 1 / 22.07.24 ~ 22.07.25
   * Return Address Overwrite
   * Basic Exploitation
+  * wargame : 
  
 - stage 6 / 22.08.03 ~ 22.08.21
   * NX bit, ASLR
   * Stack Canary
   * Return to Shellcode
+  * wargame : 
 
 - stage 7 / 22.08.22 ~ 22.08.26
   * Bypass NX & ASLR
@@ -30,7 +33,7 @@
   * Return Gadget
   * wargame : Basic ROP x64, X86
 
-- Linux Exploitation & Mitigation Part 2 / 22.08.13 ~ 22. 08.14
+- Linux Exploitation & Mitigation Part 2 / 22.08.13 ~ 22.08.14
   * ASLR
   * PLT, GOT
   * Format String Bug
@@ -39,10 +42,16 @@
   * Bypass PIE & RELRO
   * Hooking
   * One shot gadget
+  * wargame : 
   
-- Advanced Linux Exploitation / 22. 09.04 ~ 
+- Advanced Linux Exploitation / 22.09.04 ~ 
   * One shot gadget
   * .init_array, .fini_array
+
+- stage 9 / 22.09.05
+  * Out of Bounds
+  * wargame : 
+
 
 
 <t1> Reversing </t1>
