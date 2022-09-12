@@ -52,9 +52,13 @@
   * Out of Bounds
   * wargame : OOB
 
-- stage 10 / 22.09.06 ~ 
+- stage 10 / 22.09.06 ~ 22.09.10
   * Format String Bug
+  * wargame : basic_exploitation_002, basic_exploitation_003
 
+- stage 11 / 22.09.11 ~ 22.09.12
+  * Use After Free
+  
 
 
 <h2> Reversing </h2>
