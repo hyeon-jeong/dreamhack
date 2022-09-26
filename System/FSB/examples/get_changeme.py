@@ -2,7 +2,8 @@ from pwn import *
 
 def slog(n, m): return success(": ".join([n, hex(m)]))
 
-p = process("./fsb_overwrite")
+# p = process("./fsb_overwrite")
+p = remote("host3.dreamhack.games", "23842")
 elf = ELF("./fsb_overwrite")
 context.arch = "amd64"
 
